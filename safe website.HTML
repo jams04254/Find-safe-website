@@ -3,11 +3,11 @@
 <body>
 	<h1>This link website are safe⬇️</h1>
 	<p>We are help you to find safe website</p>
-	<a href="1.https://www.youtube.com/">Youtube.com                 (safe)</a><br>
-	<a href="2.https://www.google.com/">Google.com                   (safe)</a><br>
-	<a href="3.https://gemini.google.com/">gemini.google.com "AI"    (safe)</a><br>
-	<a href="4.https://github.com/">Github.com                       (safe)</a><br>
-	<a href="5.https://www.typingclub.com/"Typingclub.com            (safe)</a><br>
+	<a href="1.https://www.youtube.com/">Youtube.com (safe)</a><br>
+	<a href="2.https://www.google.com/">Google.com (safe)</a><br>
+	<a href="3.https://gemini.google.com/">gemini.google.com "AI" (safe)</a><br>
+	<a href="4.https://github.com/">Github.com (safe)</a><br>
+	<a href="5.https://www.typingclub.com/"Typingclub.com (safe)</a><br>
 	<p>Sorry, we will find safe website more soon!</p>
 	<img src="Google.jpg"alt="Google.com" width="104" height="142">
 </body>
