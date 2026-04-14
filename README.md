@@ -8,7 +8,23 @@
 	<a href="https://gemini.google.com/">gemini.google.com "AI" (safe)</a><br>
 	<a href="https://github.com/">Github.com (safe)</a><br>
 	<a href="https://www.typingclub.com/">Typingclub.com (safe)</a><br>
-	<p>Sorry, we will find safe website more soon!</p>
+	<h1 id="rainbow">Sorry, we will find safe website more soon!</h1>
+
+<script>
+  const target = document.getElementById('rainbow');
+  const text = target.innerText;
+  
+  
+  target.innerHTML = '';
+
+  text.split('').forEach(char => {
+    const span = document.createElement('span');
+    span.innerText = char;
+    span.style.color = `hsl(${Math.random() * 360}, 70%, 50%)`;
+    target.appendChild(span);
+  });
+</script>
+
 </body>
 </html>
 
