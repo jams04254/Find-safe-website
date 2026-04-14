@@ -9,7 +9,6 @@
 	<a href="https://github.com/">Github.com (safe)</a><br>
 	<a href="https://www.typingclub.com/">Typingclub.com (safe)</a><br>
 	<p>Sorry, we will find safe website more soon!</p>
-	<img src="Google.jpg"alt="Google.com" width="104" height="142">
 </body>
 </html>
 
