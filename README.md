@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
 <body>
-	<h1>This link website are safe⬇️</h1>
-	<p>We are help you to find safe website</p>
+	<h1 style="text-align:center;">This link website are safe⬇️</h1>
+	<p style="text-align:center;">We are help you to find safe website</p>
 	<a href="https://www.youtube.com/">Youtube.com (safe)</a><br>
 	<a href="https://www.google.com/">Google.com (safe)</a><br>
 	<a href="https://gemini.google.com/">gemini.google.com "AI" (safe)</a><br>
