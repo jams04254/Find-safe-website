@@ -9,7 +9,6 @@
 	<a href="https://gemini.google.com/">3.Gemini.google.com "AI" (safe)</a><br>
 	<a href="https://github.com/">4.Github.com (safe)</a><br>
 	<a href="https://www.typingclub.com/">5.Typingclub.com (safe)</a><br>
-
 	<a href="https://www.tiktok.com">6.Tiktok.com (safe)</a><br>
     <a href="https://www.blender.org/">7.Blender.org (safe)</a><br>
     <a href="https://www.samsung.com/africa_en/">8.Samsung.com (safe)</a><br>
@@ -22,35 +21,3 @@
 	<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRifb-QX-hc9LdqpuPzglZKXyYawfE-3QtmJA&s"alt="@LitaVisal" width="200" height="200">
 </body>
 </html>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
